@@ -1,0 +1,9 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "c:brass_ingots"
+  },
+  "result": "design_decor:brass_screw",
+  "count": 4
+}

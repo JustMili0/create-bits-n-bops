@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "s": {
+        "tag": "create_bnb:industrial_iron_sheets"
+      },
+      "E": {
+        "item": "create:electron_tube"
+      }
+    },
+    "pattern": [
+      "   ",
+      "sEs",
+      "   "
+    ],
+    "result": {
+      "count": 4,
+      "item": "create:display_board"
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "I I",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "create:copper_sheet"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "design_decor:copper_gas_tank",
+    "count": 1
+
+
+  }
+}

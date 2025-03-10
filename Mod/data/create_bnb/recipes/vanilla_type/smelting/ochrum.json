@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "create_dd:ochrum_cobble"
+  },
+  "result": "create:ochrum",
+  "experience": 4,
+  "cookingtime": 300
+}

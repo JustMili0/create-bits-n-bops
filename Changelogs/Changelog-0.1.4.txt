@@ -1,0 +1,15 @@
+- The jar file now can be turned into a datapack if you change it from .jar to .zip file
+- Lowered chance of netherite scraps from netherrack (crushing), 5% -> 1%
+- Changed Creative Fluid Tank recipe to use powdered obsidian instead of Weeping Obsidian from BetterNether
+  - BetterNether is no longer required
+- Added unpacking recipe for ice
+- Added more item tags for future updates
+- Fixed Brass, Zinc & Copper Lamp recipes from Design n' Decor
+- Fixed Brass & Copper floodlight recipes from Design n' Decor
+- Fixed Compact Iron Fluid Tank and Compact Fluid Tank recipes from Design n' Decor
+- Fixed Brass, Copper & Zinc Floor recipes (stonecutting) from Design n' Decor
+- Fixed Metal Plate & Metal Plate Wall recipe (stonecutting) from Design n' Decor
+- Fixed Metal Support & Diagonal Metal Support recipes (stonecutting) from Design n' Decor
+- Fixed Zinc Checker Tiles recipe (stonecutting) from Design n' Decor
+- Fixed Andesite, Brass & Zinc Boiler recipes (stonecutting) from Design n' Decor
+- Fixed Stepped Lever recipe from Design n' Decor

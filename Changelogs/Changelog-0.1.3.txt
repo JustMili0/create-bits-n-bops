@@ -1,0 +1,6 @@
+- Fixed Breaker Switch recipe from Design Decor
+- Fixed Blank Sign and Blank Letter Sign recipes from Design Decor
+- Added recipe to unpack nether bricks
+- Added recipe ``\create_bnb\recipes\create\mixing\fluid_mixing\veridium_lava_caramel_milkshake.json``
+- Added recipe ``\create_bnb\recipes\create\mixing\fluid_mixing\calcite_lava_cream.json``
+- Added recipe ``\create_bnb\recipes\create\mixing\fluid_mixing\asurine_lava_condense_milk.json``

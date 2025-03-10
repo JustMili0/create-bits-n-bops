@@ -1,0 +1,9 @@
+- Quilt compatible
+- Mod no longer requires Fabric API
+
+- Fixed Create: Design n' Decor recipes for brass and zinc: bolt, screw, catwalk, railing
+- Added Ender Pearl recipe (will probably be changed)
+- Added an unpacking recipe for ``Block of Rose Quartz`` from Biomes o' Plenty into Create's ``Rose Quartz``
+- Added packing recipe (shapeless and shaped) for ``Block of Rose Quartz`` from Create's ``Rose Quartz``
+- Added stripped logs and wood from Biomes o' Plenty to ``stripped_logs_and_wood`` tag
+- Chain Drives now craftable with zinc nuggets like in Create 6.0

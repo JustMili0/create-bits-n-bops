@@ -1,0 +1,8 @@
+- Added unpacking recipe ``Quartz Block -> 4 Quartz``
+- Added crushing rose quartz can give 2 redstone with 10% chance of +1
+- Added tag for non-stripped logs and wood
+- Added wood cutting recipes (Biomes o' Plenty x Farmer's Delight)
+- Fixed Industrial Iron Bars recipe (crafting & stonecutting) to use more types of Industrial Iron
+- Added missing recipes for Red, Orange and Yellow Maple from Biomes o' Plenty for BotanyTrees along with Pine and Empyreal
+
+Total new recipes: 34

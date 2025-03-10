@@ -1,0 +1,20 @@
+{
+    "schemaVersion":1,
+    "id":"create_bnb",
+    "version":"0.1.6+1.20.1",
+    "name":"Create: Bits n' Bops",
+    "description":"More recipes for more resource automation while including other mods in the recipes.",
+    "authors":[
+        "JustMili"
+    ],
+    "contact":{
+        "homepage":"https://modrinth.com/datapack/create-bits-and-bops"
+    },
+    "license":"MIT",
+    "icon":"pack.png",
+    "environment":"*",
+    "depends":{
+        "fabric-resource-loader-v0":"*",
+        "minecraft": "1.20.1"
+    }
+}

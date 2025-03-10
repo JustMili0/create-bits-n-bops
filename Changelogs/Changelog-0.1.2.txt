@@ -1,0 +1,7 @@
+Changelog
+- Expanded "create_bnb:stripped_logs_and_wood" tag to cover all wood types
+- Added more casing recipes (not including shadow, radiant, overcharge, blaze brass and stargaze casings from Create: Dreams & Desires)
+- Fixed incorrectly written tags in recipe fixes
+- Moved recipe fixes to overwrite the official recipes
+- Added "create_bnb:zinc_sheets" item tag
+- Fixed Industrial Iron and Zinc catwalk and catwalk railing recipes from Create Deco

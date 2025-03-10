@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:nether_brick"
+      },
+      {
+        "item": "minecraft:netherrack"
+      }
+    ],
+    "result": {
+      "item": "create_dd:nether_brick_casing",
+      "count": 1
+    }
+  }
+  

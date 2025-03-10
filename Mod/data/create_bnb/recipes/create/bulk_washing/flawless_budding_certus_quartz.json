@@ -1,0 +1,20 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "ae2:flawed_budding_quartz"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.9,
+      "count": 1,
+      "item": "ae2:quartz_block"
+    },
+    {
+      "chance": 0.1,
+      "count": 1,
+      "item": "ae2:flawless_budding_quartz"
+    }
+  ]
+}

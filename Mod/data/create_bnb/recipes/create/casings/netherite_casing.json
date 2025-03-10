@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "tag": "create_dd:valid_nether_logs"
+      }
+    ],
+    "result": {
+      "item": "create_dd:netherite_casing",
+      "count": 1
+    }
+  }
+  

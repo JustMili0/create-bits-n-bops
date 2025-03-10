@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "create_dd:steel_ingot"
+      },
+      {
+        "tag": "c:stone"
+      }
+    ],
+    "result": {
+      "item": "create_dd:steel_casing",
+      "count": 1
+    }
+  }
+  

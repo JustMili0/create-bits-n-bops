@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "createutilities:void_steel_ingot"
+      },
+      {
+        "item": "minecraft:obsidian"
+      }
+    ],
+    "result": {
+      "item": "createutilities:void_casing",
+      "count": 1
+    }
+  }
+  

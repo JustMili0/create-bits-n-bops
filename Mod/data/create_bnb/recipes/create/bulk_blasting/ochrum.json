@@ -1,0 +1,14 @@
+{
+    "type": "create:blasting",
+    "ingredients": [
+    	{
+    		"item": "create_dd:ochrum_cobble"
+    	}
+    ], 
+	"results": [
+		{
+    		"item": "create:ochrum",
+			"count": 1
+		}
+	]
+}

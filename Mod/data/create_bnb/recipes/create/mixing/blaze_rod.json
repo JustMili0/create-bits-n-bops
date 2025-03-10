@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:coal_block"
+    	},
+        {
+    		"item": "minecraft:coal_block"
+    	},
+        {
+            "amount": 60750,
+            "fluid": "minecraft:lava",
+            "nbt": {}
+        }
+    ], 
+	"results": [
+		{
+			"item": "minecraft:blaze_rod",
+			"count": 1
+		}
+	]
+}

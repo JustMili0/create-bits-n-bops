@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "create_dd:tin_ingot"
+      },
+      {
+        "tag": "create_bnb:stripped_logs_and_wood"
+      }
+    ],
+    "result": {
+      "item": "create_dd:tin_casing",
+      "count": 1
+    }
+  }
+  

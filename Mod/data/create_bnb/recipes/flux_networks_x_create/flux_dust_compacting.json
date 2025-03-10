@@ -1,0 +1,20 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "superheated",
+    "ingredients": [
+    	{
+    		"item": "create:powdered_obsidian"
+    	},
+        {
+    		"item": "create:powdered_obsidian"
+    	},
+        {
+    		"item": "minecraft:redstone"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "fluxnetworks:flux_dust"
+		}
+	]
+}

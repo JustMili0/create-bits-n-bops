@@ -1,0 +1,41 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "0": {
+      "item": "ae2:singularity"
+    },
+    "1": {
+      "item": "create_dd:infernal_mechanism"
+    },
+    "2": {
+      "item": "create:fluid_tank"
+    },
+    "3": {
+      "item": "createutilities:void_tank"
+    },
+    "4": {
+      "item": "create:framed_glass"
+    },
+    "5": {
+      "item": "create:powdered_obsidian"
+    },
+    "6": {
+      "item": "minecraft:netherite_block"
+    },
+    "7": {
+      "item": "ae2:fluix_block"
+    }
+  },
+  "pattern": [
+    " 767 ",
+    "75257",
+    "41014",
+    "75357",
+    " 767 "
+  ],
+  "result": {
+    "count": 1,
+    "item": "create:creative_fluid_tank"
+  }
+}

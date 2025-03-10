@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+    	{
+    		"item": "ae2:certus_quartz_dust"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "ae2:certus_quartz_crystal"
+		}
+	]
+}

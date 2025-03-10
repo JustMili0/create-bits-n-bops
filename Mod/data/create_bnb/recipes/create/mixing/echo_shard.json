@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+	"heatRequirement": "heated",
+    "ingredients": [
+    	{
+    		"item": "minecraft:sculk"
+    	},
+        {
+    		"item": "minecraft:sculk"
+    	},
+        {
+    		"item": "minecraft:amethyst_shard"
+        }
+    ], 
+	"results": [
+		{
+			"item": "minecraft:echo_shard",
+			"count": 1
+		}
+	]
+}

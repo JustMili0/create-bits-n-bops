@@ -1,0 +1,28 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+    	{
+    		"item": "minecraft:andesite"
+    	},
+        {
+    		"item": "minecraft:basalt"
+    	},
+        {
+            "amount": 20300,
+            "fluid": "minecraft:lava",
+            "nbt": {}
+        }
+    ], 
+	"results": [
+		{
+			"item": "minecraft:tuff",
+			"count": 2,
+			"chance": 0.8
+		},
+        {
+            "item": "minecraft:tuff",
+            "count": 4,
+            "chance": 0.2
+        }
+	]
+}

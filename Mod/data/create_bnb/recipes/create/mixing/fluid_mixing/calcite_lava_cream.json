@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "amount": 40500,
+            "fluid": "create_dd:condense_milk",
+            "nbt": {}
+        },
+        {
+            "amount": 40500,
+            "fluid": "minecraft:lava",
+            "nbt": {}
+        }
+    ], 
+	"results": [
+		{
+			"item": "minecraft:calcite",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "1": {
+      "item": "create:brass_block"
+    },
+    "2": {
+      "item": "minecraft:netherite_block"
+    },
+    "3": {
+      "item": "createutilities:void_motor"
+    },
+    "4": {
+      "item": "create_new_age:reinforced_motor"
+    },
+    "5": {
+      "item": "create:creative_blaze_cake"
+    },
+    "6": {
+      "item": "create_dd:accelerator_motor"
+    },
+    "7": {
+      "item": "create:steam_engine"
+    },
+    "8": {
+      "item": "create:shaft"
+    }
+  },
+  "pattern": [
+    " 121 ",
+    "14341",
+    "28382",
+    "56565",
+    " 727 "
+  ],
+  "result": {
+    "count": 1,
+    "item": "create:creative_motor"
+  }
+}

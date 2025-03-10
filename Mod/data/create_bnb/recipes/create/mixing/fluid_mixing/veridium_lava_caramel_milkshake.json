@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "amount": 40500,
+            "fluid": "create_dd:flowing_caramel_milkshake",
+            "nbt": {}
+        },
+        {
+            "amount": 40500,
+            "fluid": "minecraft:lava",
+            "nbt": {}
+        }
+    ], 
+	"results": [
+		{
+			"item": "create_dd:veridium_cobble",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_soil"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.4,
+      "count": 6,
+      "item": "minecraft:quartz"
+    },
+    {
+      "chance": 0.4,
+      "count": 4,
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "chance": 0.2,
+      "count": 2,
+      "item": "minecraft:glowstone_dust"
+    }
+  ]
+}

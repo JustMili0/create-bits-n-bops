@@ -1,0 +1,15 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "minecraft:crying_obsidian"
+      }
+    ],
+    "results": [
+      {
+        "chance": 0.9,
+        "count": 1,
+        "item": "betternether:weeping_obsidian"
+      }
+    ]
+  }

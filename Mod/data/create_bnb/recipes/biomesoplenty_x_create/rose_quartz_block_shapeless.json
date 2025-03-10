@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "create:rose_quartz"
+      },
+      {
+        "item": "create:rose_quartz"
+      },
+      {
+        "item": "create:rose_quartz"
+      },
+      {
+        "item": "create:rose_quartz"
+      },
+      {
+        "item": "create:rose_quartz"
+      },
+      {
+        "item": "create:rose_quartz"
+      },
+      {
+        "item": "create:rose_quartz"
+      },
+      {
+        "item": "create:rose_quartz"
+      },
+      {
+        "item": "create:rose_quartz"
+      }
+    ],
+    "result": {
+      "item": "biomesoplenty:rose_quartz_block",
+      "count": 1
+    }
+}
+  

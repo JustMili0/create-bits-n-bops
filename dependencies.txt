@@ -1,0 +1,10 @@
+Create (create)
+Create: Dreams & Desires (create-dreams-and-desires)
+Create: Enchantment Industry (create-enchantment-industry)
+Create: Utilities (create-utilities)
+Create: New Age (create-new-age)
+
+AE2 (ae2, optional)
+Flux Networks (flux-network-fabric, optional)
+Powah (powah, optional)
+Betternether (betternether, optional)
